@@ -1,7 +1,7 @@
 # Boa Forma
 
 ![Tela inicial](./home.png)
-![Tela inicial](./homeforme.png)
+![Formulario](./homeforme.png)
 
   Sistema Desktop de cadastro de clientes feito em java SE(Desktop), para uma academia.
 
