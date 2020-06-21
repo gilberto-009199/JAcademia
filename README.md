@@ -7,5 +7,5 @@
 
 ## Bibliotecas
 
-* [Swing](https://spring.io) - Plataforma para desenvolvimento Desktop multiplataforma com Java
-* [Ucanaccess](https://www.thymeleaf.org) - Biblioteca para conexão com o banco de dados Microsoft Access
+* [Swing](https://pt.wikipedia.org/wiki/Swing_(Java)) - Plataforma para desenvolvimento Desktop multiplataforma com Java
+* [Ucanaccess](http://ucanaccess.sourceforge.net/site.html) - Biblioteca para conexão com o banco de dados Microsoft Access
